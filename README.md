@@ -18,3 +18,4 @@ Job Application Custom WordPress plugin
 Upload the CWP plugin to your WordPress, activate it.
 
 ![Settings part](https://raw.githubusercontent.com/harq4500/cwp-test/main/assets/images/Capture.PNG)
+![Settings part](https://raw.githubusercontent.com/harq4500/cwp-test/main/assets/images/Capture1.PNG)
